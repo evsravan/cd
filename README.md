@@ -1,2 +1,2 @@
 # cd
-repo to hold src appspec yaml and scripts to be used code deploy
+Repo to hold src, appspec.yml and scripts to be used by codedeploy
